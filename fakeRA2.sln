@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakeRA2", "fakeRA2\fakeRA2.csproj", "{CE03D86C-E8D7-49F1-955A-8A805FC16C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakeRA2.Test", "fakeRA2.Test\fakeRA2.Test.csproj", "{D8E32AFB-B6C5-4D88-9C62-9B293E60C105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE03D86C-E8D7-49F1-955A-8A805FC16C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE03D86C-E8D7-49F1-955A-8A805FC16C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE03D86C-E8D7-49F1-955A-8A805FC16C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE03D86C-E8D7-49F1-955A-8A805FC16C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E32AFB-B6C5-4D88-9C62-9B293E60C105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E32AFB-B6C5-4D88-9C62-9B293E60C105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E32AFB-B6C5-4D88-9C62-9B293E60C105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E32AFB-B6C5-4D88-9C62-9B293E60C105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DA0D8A-EF67-4A0E-915D-818B06ACF104}
+	EndGlobalSection
+EndGlobal
